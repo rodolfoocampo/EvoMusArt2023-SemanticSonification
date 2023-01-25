@@ -17,8 +17,11 @@ It is possible to hear examples of how data was translated into natural language
 
 A live demo can be seen in the folloing link: https://www.systemofasound.art/
 
-![SystemofaSound](https://user-images.githubusercontent.com/20214121/214630338-086ef5ee-aec6-4285-bcf5-2bcab57d1afe.png)
+# Pose Recognition UI
 
+Beyond the soundscape generation, the installation also enables an interface that displays the text descriptions generated from the data, as well as playable strings that add sound on top of the soundscape, and which are triggered by movement using pose recognition. 
+
+![SystemofaSound](https://user-images.githubusercontent.com/20214121/214630338-086ef5ee-aec6-4285-bcf5-2bcab57d1afe.png)
 
 https://user-images.githubusercontent.com/20214121/214635598-79f0d1c2-2f38-4992-bfac-a2db7aa058be.mov
 

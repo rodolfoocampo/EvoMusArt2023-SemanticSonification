@@ -13,8 +13,11 @@ The sonification file is provided to illustrate the approach described in the pa
 
 It is possible to hear examples of how data was translated into natural language descriptions and then hear the sounds these were matched to in the following link: https://evomusart-semantic-sonificiation.glitch.me/
 
-# Photos and videos
+# Live Demo
 
+A live demo can be seen in the folloing link: https://www.systemofasound.art/
+
+![SystemofaSound](https://user-images.githubusercontent.com/20214121/214630338-086ef5ee-aec6-4285-bcf5-2bcab57d1afe.png)
 
 
 
